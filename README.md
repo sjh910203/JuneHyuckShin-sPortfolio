@@ -26,7 +26,7 @@ email : sjh910203@gmail.com
 
 * 교육기관 : 비트교육센터 별관
 	
-* [교육 내용](https://docs.google.com/document/d/1WHODyuLJ4BUN0RgF4Hrf5ERMksAqlnyLr928qB03PO0/edit?usp=sharing)
+* [교육 내용](https://docs.google.com/document/d/1WHODyuLJ4BUN0RgF4Hrf5ERMksAqlnyLr928qB03PO0/edit?usp=sharing){:target="_blank"}
 	
 	
 # 주요 프로젝트
@@ -92,9 +92,9 @@ email : sjh910203@gmail.com
 
 ![petshoplogo2](./file/petshoplogo2.jpg)
 
-링크 : [Petshop](http://www.petshopsjh910203.site)
+링크 : [Petshop](http://www.petshopsjh910203.site){:target="_blank"}
 
-리포지터리 : [Git](https://github.com/sjh910203/portfolio-v2)
+리포지터리 : [Git](https://github.com/sjh910203/portfolio-v2){:target="_blank"}
 
 ### 프로젝트 명 : Petshop
 
