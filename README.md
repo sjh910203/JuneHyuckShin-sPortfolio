@@ -95,5 +95,50 @@
 
 ![petshoplogo2](./file/petshoplogo2.jpg)
 
-[Petshop](http://www.petshopsjh910203.site)
+링크 : [Petshop](http://www.petshopsjh910203.site)
 
+	* 프로젝트 명  : Petshop
+
+	* 개 발 기 간  : 4/16 ~ 11/26
+
+	* 투 입 인 원  : 1명
+
+	* 프로젝트 소개: 스프링 프레임워크를 이용한 mvc 모델 온라인 쇼핑몰을 구축했습니다
+	
+	* 개발목표 
+
+		1) 스프링 프레임워크를 이용하여 실제 서비스 되고 있는 것과 비슷한 온라인 쇼핑몰 구축
+	
+		2) 가상머신을 통해서 실제 서비스 되는 것과 같이 서버 구축
+	
+	* 개발환경 및 사용기술
+		* 사용(개발) 언어 : JAVA
+
+		* 사용 O/S : Window10 , Centos7
+
+		* 사용 D/B : Oracle 11g xe
+
+		* 사용(개발)  툴 : ECLIPSE, SQLDeveloper, sqlplus, Brackets
+
+		* 웹 표준 기술 : HTML, CSS, JavaScript, jQuery
+
+		* 프레임워크 : Spring Framework
+
+		* 참고 서적 : 뇌를 자극하는 Java 프로그래밍, 코드로 배우는 스프링 웹 프로젝트
+
+	* 주요기능(구동원리) 및 특징
+		* 상품 정보 CRUD
+	
+		* ajax를 이용한 화면 전환 없는 상품평 관리 기능
+
+		* Oracle11g를 이용한 데이터 관리 기능
+
+		* 스프링 시큐리티를 이용한 회원 관리 기능 
+
+		* Google SMTP를 이용한 회원가입 인증 
+
+		* OAuth 2.0을 이용한 소셜 로그인 
+
+		* Google Cloud Platform의 가상머신을 이용한 실제 서버 가동
+	
+	* 문제 해결
