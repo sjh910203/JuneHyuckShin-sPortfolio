@@ -149,8 +149,12 @@ email : sjh910203@gmail.com
 ### 프로젝트 중 발생한 문제점
 
 * 스프링 시큐리티
+	
+	
 
 * OAuth 2.0
+
+	
 
 * Linux
 
