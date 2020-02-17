@@ -26,7 +26,7 @@ email : sjh910203@gmail.com
 
 * 교육기관 : 비트교육센터 별관
 	
-* [교육 내용](./file/이수교육내역서.docx)
+* [교육 내용](https://docs.google.com/document/d/1WHODyuLJ4BUN0RgF4Hrf5ERMksAqlnyLr928qB03PO0/edit?usp=sharing)
 	
 	
 # 주요 프로젝트
