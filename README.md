@@ -26,7 +26,7 @@
 	
 	* 교육기관 : 비트교육센터 별관
 	
-	* [교육 내용](./)
+	* [교육 내용](./file/이수교육내역서.docx)
 	//![petshoplogo2](./image/petshoplogo2.jpg) 
 	
 *주요 프로젝트*
