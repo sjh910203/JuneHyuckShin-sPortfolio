@@ -150,7 +150,7 @@ email : sjh910203@gmail.com
 
 * 스프링 시큐리티
 	
-	* 문제
+	* 문제 : fail counter 추가 문제?
 	
 	* 연구
 	
@@ -158,11 +158,9 @@ email : sjh910203@gmail.com
 
 * OAuth 2.0
 
-	* 문제
+	* 문제 : 당시 카카오 소셜 로그인으로 access token을 리턴 받는 과정까지는 성공하였었지만, 그 access token를 사용해서 어떤 정보를 추출해야될지 몰랐었음.
 	
-	* 연구
-	
-	* 해결
+	* 해결 : 구글링을 하여 spring-social-google 라이브러리를 추가하고 access token을 getUserProfile 메소드를 통해 보내서 해당 유저의 정보를 json 타입으로 파싱 받아서 userid 번호를 비밀번호로 삼고 스프링 시큐리티 쪽에 강제 로그인 시킴.  
 	
 * Linux
 
