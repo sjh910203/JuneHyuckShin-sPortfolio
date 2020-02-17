@@ -54,16 +54,16 @@
 		2) Mysql과 자바를 JDBC(Java Database Connectivity) API를 통해 연결, 사용되는 Query문 구축.
 	
 	* 개발환경 및 사용기술
-		사용(개발) 언어: JAVA
-		사용 O/S     : Window7
-		사용 D/B     : Mysql
-		사용(개발)  툴: ECLIPSE, Mysql Workbench, Brackets
-		웹 표준 기술  : HTML, CSS, JavaScript, jQuery
-		프레임워크   : Spring, MyBatis
+		* 사용(개발) 언어: JAVA
+		* 사용 O/S     : Window7
+		* 사용 D/B     : Mysql
+		* 사용(개발)  툴: ECLIPSE, Mysql Workbench, Brackets
+		* 웹 표준 기술  : HTML, CSS, JavaScript, jQuery
+		* 프레임워크   : Spring, MyBatis
 
 	* 주요기능(구동원리) 및 특징
 		* 주요특징  : SPRING MVC 모델의 구조를 가지고 있는 다이나믹 웹 프로젝트. 
-		* 주요기능  : 다음 지도API를 사용하여, 원하는 위치에 분실, 구조 또는 목격 정보를 업로드.  업로드 한 정보들은 DBMS와 자바를 연결하는 API인 JDBC를 사용하여 DB로 저장을 하고, 등록한 사용자 외의 다른 사용자들에게도 보여줄 수 있게 함.
+		* 주요기능  : 다음 지도API를 사용하여, 원하는 위치에 분실, 구조 또는 목격 정보를 업로드.   업로드 한 정보들은 DBMS와 자바를 연결하는 API인 JDBC를 사용하여 DB로 저장을 하고, 등록한 사용자 외의 다른 사용자들에게도 보여줄 수 있게 함.
 		* 구현한 기능 : 회원 정보 CRUD, 게시물 CRUD, 게시판 페이징 기능, 이미지 업로드 기능, 우편번호 검색 API, 다음 지도 API, SimpleEmailSender API.
 		* 기타사항  : 
 
