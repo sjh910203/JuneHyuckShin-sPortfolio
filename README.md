@@ -141,4 +141,6 @@
 
 		* Google Cloud Platform의 가상머신을 이용한 실제 서버 가동
 	
-	* 문제 해결
+	* ERD
+		
+		![PetShopERD](./file/PetShopERD.jpg)
