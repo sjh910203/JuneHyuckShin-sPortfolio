@@ -2,7 +2,7 @@
 
 ## 발자취
 		
-[Github](https://github.com/sjh910203){:target="_blank"}		
+[Github](https://github.com/sjh910203){: target="_blank"}		
 		
 email : sjh910203@gmail.com
 
