@@ -92,6 +92,8 @@ email : sjh910203@gmail.com
 
 ![petshoplogo2](./file/petshoplogo2.jpg)
 
+[![petshoplogo2](./file/petshoplogo2.jpg)](http://www.petshopsjh910203.site)
+
 링크 : [Petshop](http://www.petshopsjh910203.site){:target="_blank"}
 
 리포지터리 : [Github](https://github.com/sjh910203/portfolio-v2){:target="_blank"}
