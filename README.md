@@ -1,8 +1,7 @@
 # 신준혁
 
 ## 발자취
-		
-[Github](https://github.com/sjh910203){: target="_blank"}		
+				
 <a href="https://github.com/sjh910203" target="_blank">Github</a>
 
 email : sjh910203@gmail.com
