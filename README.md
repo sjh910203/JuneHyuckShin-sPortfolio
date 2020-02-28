@@ -139,6 +139,8 @@ email : sjh910203@gmail.com
 
 * OAuth 2.0을 이용한 소셜 로그인 
 
+* KakaoPay를 이용한 가상 결제 기능
+
 * Google Cloud Platform의 가상머신을 이용한 실제 서버 가동
 	
 ### ERD
