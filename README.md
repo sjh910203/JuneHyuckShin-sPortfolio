@@ -96,8 +96,10 @@ email : sjh910203@gmail.com
 위의 그림을 클릭하시면 홈페이지로 이동합니다
 
 구글 계정 보안 문제로 회원가입이 안됩니다. 
+
 계정 : psAdmin
 비밀번호 : psAdmin
+
 만약 로그인 하고 싶으시면 상기의 계정으로 로그인 가능하니 이용해주시기 바랍니다.
 
 리포지터리 : [Github](https://github.com/sjh910203/portfolio-v2)
