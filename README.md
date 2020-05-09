@@ -93,6 +93,8 @@ email : sjh910203@gmail.com
 
 [![petshoplogo2](./file/petshoplogo2.jpg)](http://www.petshopsjh910203.site)
 
+위의 그림을 클릭하시면 홈페이지로 이동합니다
+
 리포지터리 : [Github](https://github.com/sjh910203/portfolio-v2)
 
 ### 프로젝트 명 : Petshop
