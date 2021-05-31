@@ -93,7 +93,7 @@ email : sjh910203@gmail.com
 
 [![petshoplogo2](./file/petshoplogo2.jpg)](http://www.petshopsjh910203.site)
 
-위의 그림을 클릭하시면 홈페이지로 이동합니다
+현재 서버를 닫아놓은 상태입니다.
 
 구글 계정 보안 문제로 회원가입이 안됩니다. 
 
